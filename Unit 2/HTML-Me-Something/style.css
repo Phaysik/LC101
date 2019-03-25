@@ -1,0 +1,41 @@
+#links {
+    width: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#links button{
+    height: 4em;
+    width: 10em;
+    color: #595959;
+    margin-left: 1em;
+    background: inherit;
+    border: 1px solid #bfbfbf;
+}
+
+#links button:hover {
+    background-image:none;
+    background: #595959;
+    color: #bfbfbf;
+    border-radius: 20px;
+}
+
+body {
+    background: darkgray;
+}
+
+.navbar {
+    background: #bfbfbf;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1.5em;
+  background: #bfbfbf;
+  color: #595959;
+  text-align: center;
+}
