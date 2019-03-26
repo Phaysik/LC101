@@ -1,0 +1,50 @@
+ #links {
+    width: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#links a{
+    height: 2.5em;
+    width: 10em;
+    color: #595959;
+    margin-left: 1em;
+    background: inherit;
+    border: 1px solid #bfbfbf;
+}
+
+#links a:hover {
+    background-image:none;
+    background: #595959;
+    color: #bfbfbf;
+    border-radius: 20px;
+}
+
+body {
+    background: darkgray;
+}
+
+.navbar {
+    background: #bfbfbf;
+}
+
+main {
+    margin-top: 4em;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+  background: #bfbfbf;
+  color: #595959;
+  text-align: center;
+}
+
+main {
+    font-family: 'Germania One', cursive;
+}
+
+p {
+    font-size: 17pt;
+}
