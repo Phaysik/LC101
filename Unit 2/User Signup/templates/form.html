@@ -10,8 +10,8 @@
                     <label for="name">Username</label>
                 </td>
                 <td>
-                    <input type="text" id="name" name="name" placeholder="Enter your name" />
-                    {% if username|length < 1 %}
+                    <input type="text" id="name" name="name" placeholder="Enter your name" value="{{user}}" />
+                    {% if username|length < 3 or username|length > 20 or " " in username %}
                     <span class="error">That's not a valid username</span>
                     {% endif %} 
                 </td>
@@ -22,7 +22,7 @@
                 </td>
                 <td>
                     <input type="password" id="password" name="password" placeholder="Enter your password" />
-                    {% if password|length < 1 %}
+                    {% if password|length < 3 or password|length > 20 or " " in password  %}
                     <span class="error">That's not a valid password</span>
                     {% endif %}
                 </td>
@@ -43,7 +43,7 @@
                     <label for="email">Email (Optional)</label>
                 </td>
                 <td>
-                    <input type="text" id="email" name="email" placeholder="Enter your e-mail" />
+                    <input type="text" id="email" name="email" placeholder="Enter your e-mail" value="{{mail}}" />
                     {% if email == "error" %}
                     <span class="error">That's not a valid email</span>
                     {% endif %}
