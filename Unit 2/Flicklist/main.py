@@ -92,6 +92,7 @@ def add_movie():
 @app.route("/")
 def index():
     encoded_error = request.args.get("error")
+    print(encoded_error)
     return render_template('edit.html', watchlist=get_current_watchlist(), error=encoded_error and cgi.escape(encoded_error, quote=True))
 
 
