@@ -15,7 +15,7 @@ def welcome():
     email = request.form['email']
 
     if (len(username) < 1 or len(password) < 1 or verPass != password or len(email) > 0):
-        if (not re.match("[a-zA-z]+@[a-zA-Z]+.[com|org|edu]", email)):
+        if (not re.match("[a-zA-Z0-9]+@[a-zA-Z0-9]+.[com|org|edu]", email)):
             return redirect("/?error=" + username + " " +  password + " " +  verPass + " error")
         else:
             return redirect("/?error=" + username + " " + password + " " + verPass + " " + email)
