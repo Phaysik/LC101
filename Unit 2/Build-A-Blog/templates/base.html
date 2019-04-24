@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>{{title}}</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+        .links {
+            margin-left: 1em;
+        }
+        form {
+            margin-left: 1em;
+        }
+        textarea {
+            resize: none;
+        }
+        .error {
+            color: red;
+        }
+        table {
+            margin-left: 2em;
+            width: 100%;
+        }
+        th {
+            font-size: 2em;
+            text-align: left;
+        }
+        .link {
+            text-decoration: none;
+        }
+        td {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+
+<body>
+    <a class="links" href="blog">Main Blog Page</a>
+    <a class="links" href="newpost">Add a Blog Entry</a>
+
+    {% block content %}
+    {% endblock %}
+
+</body>
+
+</html>

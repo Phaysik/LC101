@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if blogs|length > 0 %}
+    {% if not request.args.get('id') %}
+        {% if not posted %}
+            <h1 class="center">Build A Blog</h1>
+            <table>
+            {% for blog in blogs %}
+                <tr>
+                    <th><a class="link" href="/blog?id={{blog.id}}">{{blog.title}}</a></th>
+                </tr>
+                <tr>
+                    <td>{{blog.body}}<hr /></td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% else %}
+            {% for blog in blogs %}
+                <h1 class="center">{{blog.title}}</h1>
+                <p>{{blog.body}}</p>
+            {% endfor %}
+        {% endif %}
+    {% else %}
+        {% for blog in blogs %}
+            <h1 class="center">{{blog.title}}</h1>
+            <p>{{blog.body}}</p>
+        {% endfor %}
+    {% endif %}
+
+{% endif %}
+{% endblock %}

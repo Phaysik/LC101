@@ -30,7 +30,6 @@ def index():
     error = request.args.get('error')
     if (error != None):
         values = error.split(' ')
-        print(len(values))
         if (len(values) > 3):
             return render_template('form.html', username=values[0], password=values[1], verPass=values[2], email=values[3], user=values[0], mail=values[len(values) - 1])
         else:
