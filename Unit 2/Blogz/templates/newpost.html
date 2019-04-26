@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="center">Add a Blog Entry</h1>
+
+<form method="POST" action="/blog">
+    <label for="title">Title for your new blog:</label>
+
+    <br /><br />
+
+    <input type="text" name="title" id="title" placeholder="Enter a blog title..." value="{{head}}" />
+    {% if header|length < 1 %}
+    <span class="error">That's not a valid title.</span>
+    {% endif %}
+
+    <br /><br /><br /><br />
+
+    <label for="blog">Your new blog:</label>
+
+    <br /><br />
+
+    <textarea name="blog" id="blog" cols="20" rows="8">{{blog}}</textarea>
+    {% if content|length < 1 %}
+    <span class="error">That's not a valid blog post.</span>
+    {% endif %}
+
+    <br /><br/><br />
+
+    <input type="hidden" name="blog-id" />
+    <input type="submit" value="Add Entry!" />
+</form>
+
+{% endblock %}

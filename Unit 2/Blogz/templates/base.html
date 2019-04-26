@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>{{title}}</title>
+    <style>
+        body, html {
+            height: 100%;
+        }
+        .center {
+            text-align: center;
+        }
+        .links {
+            margin-left: 2em;
+        }
+        form {
+            margin-left: 1em;
+        }
+        textarea {
+            resize: none;
+        }
+        .error {
+            color: red;
+        }
+        table.tableCls{
+            margin-left: 2em;
+            width: 100%;
+        }
+        th {
+            font-size: 2em;
+            text-align: left;
+        }
+        .link {
+            text-decoration: none;
+        }
+        td {
+            font-size: 1.2em;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .middle {
+            text-align: center;
+        }
+        .rightLinks {
+            float: right;
+            margin-right: 2em;
+        }
+        .container {
+            margin-left: 15em;
+            margin-right: 15em;
+            height: inherit;
+        }
+    </style>
+</head>
+
+<body>
+    <a class="links" href="index">Home</a>
+    <a class="links" href="blog">Main Blog Page</a>
+    <a class="links" href="newpost">Add a Blog Entry</a>
+    <a class="rightLinks" href="login">Login</a>
+    <a class="rightLinks" href="logout">Logout</a>
+
+    {% with messages = get_flashed_messages(with_categories=True) %}
+    <ul>
+        {% for category, message in messages %}
+        <li class="{{category}}">{{message}}</li>
+        {% endfor %}
+    </ul>
+    {% endwith %}
+
+    {% block content %}
+    {% endblock %}
+
+</body>
+
+</html>
