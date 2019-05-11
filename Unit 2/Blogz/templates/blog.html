@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if blogs|length > 0 %}
+    {% if not request.args.get('id') %}
+        {% if not posted %}
+            {% if not request.args.get('user') %}
+                <h1 class="center">Build A Blog</h1>
+                <table class="tableCls">
+                {% for blog in blogs %}
+                    <tr>
+                        <th><a class="link" href="/blog?id={{blog.id}}">{{blog.title}}</a></th>
+                    </tr>
+                    <tr>
+                        <td>{{blog.body}}</td>
+                    </tr>
+                    {% for user in users %}
+                        {% if blog.owner_id == user.id %}
+                        <tr>
+                            <td class="italic">written by <a href="/blog?user={{user.username}}">{{user.username}}</a></td>
+                        </tr>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                </table>
+            {% else %}
+                <h1 class="center">blog posts!</h1>
+                <table class="tableCls">
+                    {% for blog in blogs %}
+                    <tr>
+                        <th><a class="link" href="/blog?id={{blog.id}}">{{blog.title}}</a></th>
+                    </tr>
+                    <tr>
+                        <td>{{blog.body}}</td>
+                    </tr>
+                    <tr>
+                        <td class="italic">written by <a href="/blog?user={{owner}}">{{owner}}</a></td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            {% endif %}
+        {% else %}
+        <table class="tableCls">
+            {% for blog in blogs %}
+            <tr>
+                <th class="middle">{{blog.title}}</th>
+            </tr>
+            <tr>
+                <td>{{blog.body}}</td>
+            </tr>
+            <tr>
+                <td class="italic">written by <a href="/blog?user={{owner}}">{{owner}}</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+        {% endif %}
+    {% else %}
+        <table class="tableCls">
+            {% for blog in blogs %}
+            <tr>
+                <th class="middle">{{blog.title}}</th>
+            </tr>
+            <tr>
+                <td>{{blog.body}}</td>
+            </tr>
+            <tr>
+                <td class="italic">written by <a href="/blog?user={{owner}}">{{owner}}</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+
+{% endif %}
+{% endblock %}
