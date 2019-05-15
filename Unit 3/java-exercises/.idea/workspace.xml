@@ -2,11 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151485cf-9864-46d8-ad82-91862a685aee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Alice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/HelloUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/HelloUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/MPH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/MPH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/RectArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/RectArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_13a06811fd5ec5db4d341956581150d1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_13a06811fd5ec5db4d341956581150d1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_2359b0b3331ebe879ef54f58df801087.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_2359b0b3331ebe879ef54f58df801087.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_cd85d66fda5a1a6a87e168db47e0a4ce.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_cd85d66fda5a1a6a87e168db47e0a4ce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/doxygen.css" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/doxygen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/dynsections.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dynsections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/functions_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/functions_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/menudata.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/menudata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/nomatches.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/nomatches.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/annotated.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/annotated.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classdemos_1_1_practice.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classdemos_1_1_practice.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_alice.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_alice.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hello_user.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hello_user.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_m_p_h.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_m_p_h.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_rect_area.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_rect_area.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classstudios_1_1_area.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classstudios_1_1_area.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/doxygen.sty" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/doxygen.sty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/make.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxygen/latex/refman.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/refman.tex" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,28 +83,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
+        <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="812" column="54" selection-start-line="812" selection-start-column="54" selection-end-line="812" selection-end-column="54" />
+            <state relative-caret-position="128">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demos/Practice.java">
+        <entry file="file://$PROJECT_DIR$/src/exercises/FiveLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="128">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercises/PrintArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
+        <entry file="file://$PROJECT_DIR$/src/exercises/HashBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="365">
+              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +179,11 @@
         <option value="$PROJECT_DIR$/src/exercises/Alice.java" />
         <option value="$PROJECT_DIR$/src/demos/Practice.java" />
         <option value="$PROJECT_DIR$/src/exercises/HelloUser.java" />
+        <option value="$PROJECT_DIR$/src/exercises/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/exercises/PrintArray.java" />
+        <option value="$PROJECT_DIR$/src/exercises/FiveLetters.java" />
+        <option value="$PROJECT_DIR$/src/exercises/SumList.java" />
+        <option value="$PROJECT_DIR$/src/exercises/HashBook.java" />
       </list>
     </option>
   </component>
@@ -106,10 +203,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="18" />
-    <option name="width" value="1401" />
-    <option name="height" value="1002" />
+    <option name="x" value="2477" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -119,8 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,13 +255,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,9 +278,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Alice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Alice" />
+  <component name="RunManager" selected="Application.HashBook">
+    <configuration name="FiveLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.FiveLetters" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
@@ -194,21 +292,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studios.Area" />
-      <module name="java-exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MPH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.MPH" />
+    <configuration name="HashBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.HashBook" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
@@ -230,12 +315,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demos.Practice" />
+    <configuration name="PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.PrintArray" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demos.*" />
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SumList" />
+      <module name="java-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +342,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Alice" />
-      <item itemvalue="Application.MPH" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Area" />
-      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.SumList" />
+      <item itemvalue="Application.FiveLetters" />
+      <item itemvalue="Application.PrintArray" />
+      <item itemvalue="Application.HashBook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashBook" />
+        <item itemvalue="Application.PrintArray" />
+        <item itemvalue="Application.FiveLetters" />
+        <item itemvalue="Application.SumList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Area" />
-        <item itemvalue="Application.Alice" />
-        <item itemvalue="Application.MPH" />
       </list>
     </recent_temporary>
   </component>
@@ -274,10 +372,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,8 +384,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280142" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32719395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,34 +408,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Doxyfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/studios/Doxyfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="2156" column="24" selection-start-line="2156" selection-start-column="24" selection-end-line="2156" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Doxyfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="815" column="26" lean-forward="true" selection-start-line="815" selection-start-column="26" selection-end-line="815" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/walkthroughs/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Doxyfile" />
+    <entry file="file://$PROJECT_DIR$/src/studios/Doxyfile" />
+    <entry file="file://$PROJECT_DIR$/src/Doxyfile" />
+    <entry file="file://$PROJECT_DIR$/src/walkthroughs/Practice.java" />
     <entry file="file://$PROJECT_DIR$/src/exercises/MPH.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -348,48 +422,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/RectArea.java">
+    <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile" />
+    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="336">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/Alice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="384">
+          <caret line="22" column="88" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
+    <entry file="file://$PROJECT_DIR$/src/demos/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
+    <entry file="file://$PROJECT_DIR$/src/exercises/RectArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="812" column="54" selection-start-line="812" selection-start-column="54" selection-end-line="812" selection-end-column="54" />
+        <state relative-caret-position="272">
+          <caret line="17" column="115" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demos/Practice.java">
+    <entry file="file://$PROJECT_DIR$/src/exercises/FiveLetters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="128">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
+    <entry file="file://$PROJECT_DIR$/src/exercises/PrintArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/HashBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hellouser',['HelloUser',['../classexercises_1_1_hello_user.html',1,'exercises']]]
+  ['fiveletters',['FiveLetters',['../classexercises_1_1_five_letters.html',1,'exercises']]]
 ];

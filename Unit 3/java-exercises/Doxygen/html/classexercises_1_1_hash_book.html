@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LC101 Java Assignments/Projects: exercises.HelloUser Class Reference</title>
+<title>LC101 Java Assignments/Projects: exercises.HashBook Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -61,35 +61,35 @@ $(function() {
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><b>exercises</b></li><li class="navelem"><a class="el" href="classexercises_1_1_hello_user.html">HelloUser</a></li>  </ul>
+<li class="navelem"><b>exercises</b></li><li class="navelem"><a class="el" href="classexercises_1_1_hash_book.html">HashBook</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="classexercises_1_1_hello_user-members.html">List of all members</a>  </div>
+<a href="classexercises_1_1_hash_book-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">exercises.HelloUser Class Reference</div>  </div>
+<div class="title">exercises.HashBook Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>Print hello 'User'.  
- <a href="classexercises_1_1_hello_user.html#details">More...</a></p>
+<p>Print roster from user input.  
+ <a href="classexercises_1_1_hash_book.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a95cd13d52ba06b634de7116ff1bcbada"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classexercises_1_1_hello_user.html#a95cd13d52ba06b634de7116ff1bcbada">main</a> (String[] args)</td></tr>
-<tr class="separator:a95cd13d52ba06b634de7116ff1bcbada"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6768765511628e29829e3062a43c1d15"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classexercises_1_1_hash_book.html#a6768765511628e29829e3062a43c1d15">main</a> (String[] args)</td></tr>
+<tr class="separator:a6768765511628e29829e3062a43c1d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Print hello 'User'. </p>
+<div class="textblock"><p>Print roster from user input. </p>
 <dl class="section author"><dt>Author</dt><dd>Matthew Moore </dd></dl>
-<dl class="section date"><dt>Date</dt><dd>13-05-2019 </dd></dl>
-<dl class="section version"><dt>Version</dt><dd>1.0.0</dd></dl>
-<p>Based on user input, say 'Hello "Name"'. </p>
+<dl class="section date"><dt>Date</dt><dd>15-05-2019 </dd></dl>
+<dl class="section version"><dt>Version</dt><dd>1.0.4</dd></dl>
+<p>Based on user input, take in a String for the student's name, an Integer for their ID, and then print out the roster. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a95cd13d52ba06b634de7116ff1bcbada"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a95cd13d52ba06b634de7116ff1bcbada">&#9670;&nbsp;</a></span>main()</h2>
+<a id="a6768765511628e29829e3062a43c1d15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6768765511628e29829e3062a43c1d15">&#9670;&nbsp;</a></span>main()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -98,7 +98,7 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void exercises.HelloUser.main </td>
+          <td class="memname">static void exercises.HashBook.main </td>
           <td>(</td>
           <td class="paramtype">String []&#160;</td>
           <td class="paramname"><em>args</em></td><td>)</td>
@@ -111,19 +111,22 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Main method of <a class="el" href="classexercises_1_1_hello_user.html" title="Print hello &#39;User&#39;.">HelloUser</a> Class </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Main method of <a class="el" href="classexercises_1_1_hash_book.html" title="Print roster from user input.">HashBook</a> Class </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">[args]</td><td>Arguments to the main method </td></tr>
   </table>
   </dd>
 </dl>
-<p>Scanner name =&gt; Declare a scanner to get user input</p>
-<p>String fullName =&gt; User input of their name </p>
+<p>Scanner input =&gt; Declare a scanner to get user input</p>
+<p>HashMap&lt;Integer, String&gt; students =&gt; A hashmap that contains the student's names and their ids</p>
+<p>String name =&gt; String to hold the student's name</p>
+<p>String test =&gt; String to take placeholder input</p>
+<p>int id =&gt; Integer to hold the student's id </p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>C:/Users/user/github/LC101/Unit 3/java-exercises/src/exercises/HelloUser.java</li>
+<li>C:/Users/user/github/LC101/Unit 3/java-exercises/src/exercises/HashBook.java</li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->
