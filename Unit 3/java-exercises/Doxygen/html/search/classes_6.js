@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sumlist',['SumList',['../classexercises_1_1_sum_list.html',1,'exercises']]]
+  ['rectarea',['RectArea',['../classexercises_1_1_rect_area.html',1,'exercises']]]
 ];

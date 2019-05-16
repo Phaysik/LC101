@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fiveletters',['FiveLetters',['../classexercises_1_1_five_letters.html',1,'exercises']]]
+  ['countingcharacters',['CountingCharacters',['../classstudios_1_1_counting_characters.html',1,'studios']]]
 ];

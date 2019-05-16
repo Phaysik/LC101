@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['firstandlastsum',['firstAndLastSum',['../classdemos_1_1_practice.html#a19ed9e7b2a95cdc9a8a03dc76289e6a5',1,'demos::Practice']]],
-  ['fiveletters',['FiveLetters',['../classexercises_1_1_five_letters.html',1,'exercises']]]
+  ['countingcharacters',['CountingCharacters',['../classstudios_1_1_counting_characters.html',1,'studios']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['mph',['MPH',['../classexercises_1_1_m_p_h.html',1,'exercises']]]
+  ['hashbook',['HashBook',['../classexercises_1_1_hash_book.html',1,'exercises']]],
+  ['hellouser',['HelloUser',['../classexercises_1_1_hello_user.html',1,'exercises']]]
 ];

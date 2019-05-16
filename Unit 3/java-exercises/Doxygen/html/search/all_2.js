@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['hashbook',['HashBook',['../classexercises_1_1_hash_book.html',1,'exercises']]],
-  ['hellouser',['HelloUser',['../classexercises_1_1_hello_user.html',1,'exercises']]]
+  ['firstandlastsum',['firstAndLastSum',['../classdemos_1_1_practice.html#a19ed9e7b2a95cdc9a8a03dc76289e6a5',1,'demos::Practice']]],
+  ['fiveletters',['FiveLetters',['../classexercises_1_1_five_letters.html',1,'exercises']]]
 ];

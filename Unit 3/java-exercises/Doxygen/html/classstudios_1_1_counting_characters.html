@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LC101 Java Assignments/Projects: studios.Area Class Reference</title>
+<title>LC101 Java Assignments/Projects: studios.CountingCharacters Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -61,35 +61,35 @@ $(function() {
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><b>studios</b></li><li class="navelem"><a class="el" href="classstudios_1_1_area.html">Area</a></li>  </ul>
+<li class="navelem"><b>studios</b></li><li class="navelem"><a class="el" href="classstudios_1_1_counting_characters.html">CountingCharacters</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="classstudios_1_1_area-members.html">List of all members</a>  </div>
+<a href="classstudios_1_1_counting_characters-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">studios.Area Class Reference</div>  </div>
+<div class="title">studios.CountingCharacters Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>Print area of circle.  
- <a href="classstudios_1_1_area.html#details">More...</a></p>
+<p>Count characters from input.  
+ <a href="classstudios_1_1_counting_characters.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ace8a7bdd217d746782d18bf6cf7c6791"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classstudios_1_1_area.html#ace8a7bdd217d746782d18bf6cf7c6791">main</a> (String[] args)</td></tr>
-<tr class="separator:ace8a7bdd217d746782d18bf6cf7c6791"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20db7f61ae28debf8b27d095f35250cb"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classstudios_1_1_counting_characters.html#a20db7f61ae28debf8b27d095f35250cb">main</a> (String[] args)</td></tr>
+<tr class="separator:a20db7f61ae28debf8b27d095f35250cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Print area of circle. </p>
+<div class="textblock"><p>Count characters from input. </p>
 <dl class="section author"><dt>Author</dt><dd>Matthew Moore </dd></dl>
-<dl class="section date"><dt>Date</dt><dd>13-05-2019 </dd></dl>
-<dl class="section version"><dt>Version</dt><dd>1.0.0</dd></dl>
-<p>Based on user input, validate if incorrect value inputted, and then print out area of a circle. </p>
+<dl class="section date"><dt>Date</dt><dd>16-05-2019 </dd></dl>
+<dl class="section version"><dt>Version</dt><dd>1.0.5</dd></dl>
+<p>Based on user input, count all the characters from the string. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ace8a7bdd217d746782d18bf6cf7c6791"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace8a7bdd217d746782d18bf6cf7c6791">&#9670;&nbsp;</a></span>main()</h2>
+<a id="a20db7f61ae28debf8b27d095f35250cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20db7f61ae28debf8b27d095f35250cb">&#9670;&nbsp;</a></span>main()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -98,7 +98,7 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void studios.Area.main </td>
+          <td class="memname">static void studios.CountingCharacters.main </td>
           <td>(</td>
           <td class="paramtype">String []&#160;</td>
           <td class="paramname"><em>args</em></td><td>)</td>
@@ -111,21 +111,20 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Main method of <a class="el" href="classstudios_1_1_area.html" title="Print area of circle.">Area</a> Class. </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Main method of <a class="el" href="classstudios_1_1_counting_characters.html" title="Count characters from input.">CountingCharacters</a> Class </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">[args]</td><td>Arguments to the main method </td></tr>
   </table>
   </dd>
 </dl>
-<p>Scanner rad =&gt; Declare a scanner to get user input</p>
-<p>String input =&gt; Get the user input</p>
-<p>double radius =&gt; For converting the value of the input String into a double type</p>
-<p>NumberFormat nf =&gt; Variable to format later numeric types </p>
+<p>Scanner input =&gt; Declare a scanner to get user input</p>
+<p>HashMap&lt;Character, Integer&gt; counts=&gt; A hashmap that contains the characters and the amount of times they appear in the user's input</p>
+<p>String setence =&gt; String to hold user input </p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>C:/Users/wolf2/github/LC101/Unit 3/java-exercises/src/studios/Area.java</li>
+<li>C:/Users/wolf2/github/LC101/Unit 3/java-exercises/src/studios/CountingCharacters.java</li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->
