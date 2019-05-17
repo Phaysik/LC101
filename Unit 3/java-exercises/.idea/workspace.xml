@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151485cf-9864-46d8-ad82-91862a685aee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/annotated.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classdemos_1_1_practice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_alice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_five_letters-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_five_letters-members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_five_letters.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_five_letters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hash_book-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hash_book-members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hash_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hash_book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_hello_user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_m_p_h.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_print_array-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_print_array-members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_print_array.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_print_array.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_rect_area.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_sum_list-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_sum_list-members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_sum_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classexercises_1_1_sum_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/classstudios_1_1_area.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_13a06811fd5ec5db4d341956581150d1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_13a06811fd5ec5db4d341956581150d1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_2359b0b3331ebe879ef54f58df801087.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_2359b0b3331ebe879ef54f58df801087.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/dir_cd85d66fda5a1a6a87e168db47e0a4ce.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/dir_cd85d66fda5a1a6a87e168db47e0a4ce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/functions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/functions_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/functions_func.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/annotated.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/annotated.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classdemos_1_1_practice.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classdemos_1_1_practice.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_alice.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_alice.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_five_letters.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_five_letters.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hash_book.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hash_book.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hello_user.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_hello_user.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_m_p_h.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_m_p_h.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_print_array.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_print_array.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_rect_area.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_rect_area.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_sum_list.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classexercises_1_1_sum_list.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/classstudios_1_1_area.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/classstudios_1_1_area.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/latex/refman.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/latex/refman.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-exercises.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
+        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="240">
+              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/HashBook.java">
+        <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="20" column="162" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="162" />
+            <state relative-caret-position="272">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +43,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
+        <entry file="file://$PROJECT_DIR$/src/Projects/JobData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="187">
+              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Projects/TechJobs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,6 +87,9 @@
       <find>ALL</find>
       <find>/*!</find>
       <find>WARNINGS</find>
+      <find>,</find>
+      <find>LaborChart</find>
+      <find>LaborChar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,9 +112,15 @@
         <option value="$PROJECT_DIR$/src/exercises/Arrays.java" />
         <option value="$PROJECT_DIR$/src/exercises/PrintArray.java" />
         <option value="$PROJECT_DIR$/src/exercises/FiveLetters.java" />
-        <option value="$PROJECT_DIR$/src/exercises/SumList.java" />
         <option value="$PROJECT_DIR$/src/exercises/HashBook.java" />
         <option value="$PROJECT_DIR$/src/studios/CountingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/Projects/ConsoleTechJobs.java" />
+        <option value="$PROJECT_DIR$/src/Projects/ConsoleTech.java" />
+        <option value="$PROJECT_DIR$/resources/job_data.csv" />
+        <option value="$PROJECT_DIR$/src/demos/ArrayListPractice.java" />
+        <option value="$PROJECT_DIR$/src/exercises/SumList.java" />
+        <option value="$PROJECT_DIR$/src/Projects/TechJobs.java" />
+        <option value="$PROJECT_DIR$/src/Projects/JobData.java" />
       </list>
     </option>
   </component>
@@ -171,10 +140,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2477" />
-    <option name="y" value="-8" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -184,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,7 +164,18 @@
             <path>
               <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -208,18 +187,22 @@
               <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="studios" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-csv-1.4.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
@@ -235,13 +218,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingCharacters">
-    <configuration name="CountingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studios.CountingCharacters" />
+  <component name="RunManager" selected="Application.TechJobs">
+    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demos.ArrayListPractice" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studios.*" />
+          <option name="PATTERN" value="demos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiveLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.FiveLetters" />
+    <configuration name="CountingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studios.CountingCharacters" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="studios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SumList" />
+    <configuration name="TechJobs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.TechJobs" />
       <module name="java-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +285,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumList" />
-      <item itemvalue="Application.FiveLetters" />
       <item itemvalue="Application.PrintArray" />
       <item itemvalue="Application.HashBook" />
       <item itemvalue="Application.CountingCharacters" />
+      <item itemvalue="Application.TechJobs" />
+      <item itemvalue="Application.ArrayListPractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TechJobs" />
+        <item itemvalue="Application.ArrayListPractice" />
         <item itemvalue="Application.CountingCharacters" />
         <item itemvalue="Application.HashBook" />
         <item itemvalue="Application.PrintArray" />
-        <item itemvalue="Application.FiveLetters" />
-        <item itemvalue="Application.SumList" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +318,7 @@
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,14 +328,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280142" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32978722" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3280142" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -411,16 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/RectArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -448,9 +421,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Projects/ConsoleTechJobs.java" />
+    <entry file="file://$PROJECT_DIR$/resources/job_data.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="98" column="95" selection-start-line="98" selection-start-column="95" selection-end-line="98" selection-end-column="95" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="1504">
+          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="299">
           <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -460,8 +449,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/HashBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
+        <state relative-caret-position="352">
           <caret line="20" column="162" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="162" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/ArrayListPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Projects/TechJobs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -470,13 +489,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="240">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Projects/JobData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-exercises</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-csv-1.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

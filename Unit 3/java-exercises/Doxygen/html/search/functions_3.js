@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sumvals',['sumVals',['../classexercises_1_1_sum_list.html#a04969d5dd6fdae5d0a6b550c3dcd0bfc',1,'exercises::SumList']]]
+  ['printwords',['PrintWords',['../classexercises_1_1_five_letters.html#a348b407c7defcb69c0d97d0e2467ca4d',1,'exercises::FiveLetters']]]
 ];
