@@ -1,0 +1,93 @@
+\hypertarget{class_tech_jobs_console_1_1_tech_jobs}{}\section{Tech\+Jobs\+Console.\+Tech\+Jobs Class Reference}
+\label{class_tech_jobs_console_1_1_tech_jobs}\index{TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}}
+
+
+Print out jobs that match input.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_tech_jobs_console_1_1_tech_jobs_aca7466b1cc8ef93c94b62a62c656bfca}{main}} (String\mbox{[}$\,$\mbox{]} args)
+\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static String \mbox{\hyperlink{class_tech_jobs_console_1_1_tech_jobs_aea72d04cffd1467dd68ce9bfee22cd64}{get\+User\+Selection}} (String menu\+Header, Hash\+Map$<$ String, String $>$ choices)
+\item 
+static void \mbox{\hyperlink{class_tech_jobs_console_1_1_tech_jobs_a90d0303939f42444950492f2c36925f1}{print\+Jobs}} (Array\+List$<$ Hash\+Map$<$ String, String $>$$>$ some\+Jobs)
+\end{DoxyCompactItemize}
+\subsection*{Static Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static Scanner \mbox{\hyperlink{class_tech_jobs_console_1_1_tech_jobs_ac953bc3b00bf00267a68193946c6a1b2}{in}} = new Scanner(System.\+in)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Print out jobs that match input. 
+
+\begin{DoxyAuthor}{Author}
+Matthew Moore 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+16-\/05-\/2019 
+\end{DoxyDate}
+\begin{DoxyVersion}{Version}
+1.\+1.\+0
+\end{DoxyVersion}
+Based on user input, call the appropriate methods from the \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data}{Job\+Data}} file that will return an Array\+List with the jobs that are available. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_tech_jobs_aea72d04cffd1467dd68ce9bfee22cd64}\label{class_tech_jobs_console_1_1_tech_jobs_aea72d04cffd1467dd68ce9bfee22cd64}} 
+\index{TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}!getUserSelection@{getUserSelection}}
+\index{getUserSelection@{getUserSelection}!TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}}
+\subsubsection{\texorpdfstring{getUserSelection()}{getUserSelection()}}
+{\footnotesize\ttfamily static String Tech\+Jobs\+Console.\+Tech\+Jobs.\+get\+User\+Selection (\begin{DoxyParamCaption}\item[{String}]{menu\+Header,  }\item[{Hash\+Map$<$ String, String $>$}]{choices }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Gets and returns the column that the user requested 
+\begin{DoxyParams}{Parameters}
+{\em menu\+Header} & String the indicates the column requested \\
+\hline
+{\em choices} & Hashmap with all of the columns inside \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+The column the user selects 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_tech_jobs_aca7466b1cc8ef93c94b62a62c656bfca}\label{class_tech_jobs_console_1_1_tech_jobs_aca7466b1cc8ef93c94b62a62c656bfca}} 
+\index{TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}!main@{main}}
+\index{main@{main}!TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}}
+\subsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily static void Tech\+Jobs\+Console.\+Tech\+Jobs.\+main (\begin{DoxyParamCaption}\item[{String \mbox{[}$\,$\mbox{]}}]{args }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Main method of \mbox{\hyperlink{class_tech_jobs_console_1_1_tech_jobs}{Tech\+Jobs}} Class 
+\begin{DoxyParams}{Parameters}
+{\em \mbox{[}args\mbox{]}} & Arguments to the main method \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_tech_jobs_a90d0303939f42444950492f2c36925f1}\label{class_tech_jobs_console_1_1_tech_jobs_a90d0303939f42444950492f2c36925f1}} 
+\index{TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}!printJobs@{printJobs}}
+\index{printJobs@{printJobs}!TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}}
+\subsubsection{\texorpdfstring{printJobs()}{printJobs()}}
+{\footnotesize\ttfamily static void Tech\+Jobs\+Console.\+Tech\+Jobs.\+print\+Jobs (\begin{DoxyParamCaption}\item[{Array\+List$<$ Hash\+Map$<$ String, String $>$$>$}]{some\+Jobs }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Prints a list of jobs 
+\begin{DoxyParams}{Parameters}
+{\em some\+Jobs} & Array\+List of jobs \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_tech_jobs_ac953bc3b00bf00267a68193946c6a1b2}\label{class_tech_jobs_console_1_1_tech_jobs_ac953bc3b00bf00267a68193946c6a1b2}} 
+\index{TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}!in@{in}}
+\index{in@{in}!TechJobsConsole.TechJobs@{TechJobsConsole.TechJobs}}
+\subsubsection{\texorpdfstring{in}{in}}
+{\footnotesize\ttfamily Scanner Tech\+Jobs\+Console.\+Tech\+Jobs.\+in = new Scanner(System.\+in)\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Scanner to get user input 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/wolf2/github/\+L\+C101/\+Unit 3/java-\/exercises/src/\+Tech\+Jobs\+Console/Tech\+Jobs.\+java\end{DoxyCompactItemize}

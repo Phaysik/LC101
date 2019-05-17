@@ -1,0 +1,144 @@
+\hypertarget{class_tech_jobs_console_1_1_job_data}{}\section{Tech\+Jobs\+Console.\+Job\+Data Class Reference}
+\label{class_tech_jobs_console_1_1_job_data}\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+
+
+Get data from C\+SV.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static Array\+List$<$ String $>$ \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_ac601200d9c2e103a30eee0b0eef6961a}{find\+All}} (String field)
+\item 
+static Array\+List$<$ Hash\+Map$<$ String, String $>$ $>$ \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a56ed5e82191b2a08930ad13c64c6849c}{find\+All}} ()
+\item 
+static Array\+List$<$ Hash\+Map$<$ String, String $>$ $>$ \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a46bd0cdccbf24af87e20580ed6f1af37}{find\+By\+Column\+And\+Value}} (String column, String value)
+\item 
+static Array\+List$<$ Hash\+Map$<$ String, String $>$ $>$ \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a8d47da2c067369c27e02b4d769cb1739}{find\+By\+Value}} (String value)
+\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a3b1a57401b0a72276b473d0950e6bb71}{load\+Data}} ()
+\end{DoxyCompactItemize}
+\subsection*{Static Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static final String \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a43a1a3c9d4939c8e05d2a8d11f02c0e0}{D\+A\+T\+A\+\_\+\+F\+I\+LE}} = \char`\"{}resources/job\+\_\+data.\+csv\char`\"{}
+\item 
+static Boolean \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_a9714fc6381422866943591bf909640f1}{is\+Data\+Loaded}} = false
+\item 
+static Array\+List$<$ Hash\+Map$<$ String, String $>$ $>$ \mbox{\hyperlink{class_tech_jobs_console_1_1_job_data_afd5ae8f8b5c6d68e614441cd9a9899ae}{all\+Jobs}}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Get data from C\+SV. 
+
+\begin{DoxyAuthor}{Author}
+Matthew Moore 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+16-\/05-\/2019 
+\end{DoxyDate}
+\begin{DoxyVersion}{Version}
+1.\+1.\+0
+\end{DoxyVersion}
+Parse and Format C\+SV, and the class can also return Array\+Lists that contain jobs that match user input. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_ac601200d9c2e103a30eee0b0eef6961a}\label{class_tech_jobs_console_1_1_job_data_ac601200d9c2e103a30eee0b0eef6961a}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!findAll@{findAll}}
+\index{findAll@{findAll}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{findAll()}{findAll()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily static Array\+List$<$String$>$ Tech\+Jobs\+Console.\+Job\+Data.\+find\+All (\begin{DoxyParamCaption}\item[{String}]{field }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Fetch list of all values from loaded data, without duplicates, for a given column.
+
+
+\begin{DoxyParams}{Parameters}
+{\em field} & The column to retrieve values from \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of all of the values of the given field 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a56ed5e82191b2a08930ad13c64c6849c}\label{class_tech_jobs_console_1_1_job_data_a56ed5e82191b2a08930ad13c64c6849c}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!findAll@{findAll}}
+\index{findAll@{findAll}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{findAll()}{findAll()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily static Array\+List$<$Hash\+Map$<$String, String$>$ $>$ Tech\+Jobs\+Console.\+Job\+Data.\+find\+All (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Return all jobs from the csv file \begin{DoxyReturn}{Returns}
+all jobs 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a46bd0cdccbf24af87e20580ed6f1af37}\label{class_tech_jobs_console_1_1_job_data_a46bd0cdccbf24af87e20580ed6f1af37}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!findByColumnAndValue@{findByColumnAndValue}}
+\index{findByColumnAndValue@{findByColumnAndValue}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{findByColumnAndValue()}{findByColumnAndValue()}}
+{\footnotesize\ttfamily static Array\+List$<$Hash\+Map$<$String, String$>$ $>$ Tech\+Jobs\+Console.\+Job\+Data.\+find\+By\+Column\+And\+Value (\begin{DoxyParamCaption}\item[{String}]{column,  }\item[{String}]{value }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Returns results of search the jobs data by key/value, using inclusion of the search term.
+
+For example, searching for employer \char`\"{}\+Enterprise\char`\"{} will include results with \char`\"{}\+Enterprise Holdings, Inc\char`\"{}.
+
+
+\begin{DoxyParams}{Parameters}
+{\em column} & Column that should be searched. \\
+\hline
+{\em value} & Value of teh field to search for \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of all jobs matching the criteria 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a8d47da2c067369c27e02b4d769cb1739}\label{class_tech_jobs_console_1_1_job_data_a8d47da2c067369c27e02b4d769cb1739}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!findByValue@{findByValue}}
+\index{findByValue@{findByValue}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{findByValue()}{findByValue()}}
+{\footnotesize\ttfamily static Array\+List$<$Hash\+Map$<$String, String$>$ $>$ Tech\+Jobs\+Console.\+Job\+Data.\+find\+By\+Value (\begin{DoxyParamCaption}\item[{String}]{value }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Returns results of search the jobs data by key/value, using inclusion of the search term.
+
+For example, searching for employer \char`\"{}\+Enterprise\char`\"{} will include results with \char`\"{}\+Enterprise Holdings, Inc\char`\"{}.
+
+
+\begin{DoxyParams}{Parameters}
+{\em \mbox{[}value\mbox{]}} & Value of the field to search for \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of all jobs matching the criteria 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a3b1a57401b0a72276b473d0950e6bb71}\label{class_tech_jobs_console_1_1_job_data_a3b1a57401b0a72276b473d0950e6bb71}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!loadData@{loadData}}
+\index{loadData@{loadData}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{loadData()}{loadData()}}
+{\footnotesize\ttfamily static void Tech\+Jobs\+Console.\+Job\+Data.\+load\+Data (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Read in data from a C\+SV file and store it in a list 
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_afd5ae8f8b5c6d68e614441cd9a9899ae}\label{class_tech_jobs_console_1_1_job_data_afd5ae8f8b5c6d68e614441cd9a9899ae}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!allJobs@{allJobs}}
+\index{allJobs@{allJobs}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{allJobs}{allJobs}}
+{\footnotesize\ttfamily Array\+List$<$Hash\+Map$<$String, String$>$ $>$ Tech\+Jobs\+Console.\+Job\+Data.\+all\+Jobs\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Contains all the jobs \mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a43a1a3c9d4939c8e05d2a8d11f02c0e0}\label{class_tech_jobs_console_1_1_job_data_a43a1a3c9d4939c8e05d2a8d11f02c0e0}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!DATA\_FILE@{DATA\_FILE}}
+\index{DATA\_FILE@{DATA\_FILE}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{DATA\_FILE}{DATA\_FILE}}
+{\footnotesize\ttfamily final String Tech\+Jobs\+Console.\+Job\+Data.\+D\+A\+T\+A\+\_\+\+F\+I\+LE = \char`\"{}resources/job\+\_\+data.\+csv\char`\"{}\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Loads the csv file \mbox{\Hypertarget{class_tech_jobs_console_1_1_job_data_a9714fc6381422866943591bf909640f1}\label{class_tech_jobs_console_1_1_job_data_a9714fc6381422866943591bf909640f1}} 
+\index{TechJobsConsole.JobData@{TechJobsConsole.JobData}!isDataLoaded@{isDataLoaded}}
+\index{isDataLoaded@{isDataLoaded}!TechJobsConsole.JobData@{TechJobsConsole.JobData}}
+\subsubsection{\texorpdfstring{isDataLoaded}{isDataLoaded}}
+{\footnotesize\ttfamily Boolean Tech\+Jobs\+Console.\+Job\+Data.\+is\+Data\+Loaded = false\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+Determines if the data is already loaded 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/wolf2/github/\+L\+C101/\+Unit 3/java-\/exercises/src/\+Tech\+Jobs\+Console/Job\+Data.\+java\end{DoxyCompactItemize}

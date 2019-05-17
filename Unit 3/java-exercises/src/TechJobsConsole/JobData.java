@@ -1,4 +1,4 @@
-package Projects;
+package TechJobsConsole;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
@@ -18,9 +18,18 @@ import java.util.*;
  */
 public class JobData {
 
+    /**
+     * Loads the csv file
+     */
     private static final String DATA_FILE = "resources/job_data.csv";
+    /**
+     * Determines if the data is already loaded
+     */
     private static Boolean isDataLoaded = false;
 
+    /**
+     * Contains all the jobs
+     */
     private static ArrayList<HashMap<String, String>> allJobs;
 
     /**
@@ -50,6 +59,10 @@ public class JobData {
         return values;
     }
 
+    /**
+     * Return all jobs from the csv file
+     * \return all jobs
+     */
     public static ArrayList<HashMap<String, String>> findAll() {
 
         // load data, if not already loaded

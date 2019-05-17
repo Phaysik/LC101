@@ -1,6 +1,7 @@
-package Projects;
+package TechJobsConsole;
 
 import java.util.ArrayList;
+import java.util.Dictionary;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -13,6 +14,9 @@ import java.util.Scanner;
  */
 public class TechJobs {
 
+    /**
+     * Scanner to get user input
+     */
     private static Scanner in = new Scanner(System.in);
 
     /**
@@ -77,7 +81,12 @@ public class TechJobs {
         }
     }
 
-    // ﻿Returns the key of the selected item from the choices Dictionary
+    /**
+     * Gets and returns the column that the user requested
+     * \param menuHeader String the indicates the column requested
+     * \param choices Hashmap with all of the columns inside
+     * \return The column the user selects
+     */
     private static String getUserSelection(String menuHeader, HashMap<String, String> choices) {
 
         Integer choiceIdx;
@@ -116,7 +125,10 @@ public class TechJobs {
         return choiceKeys[choiceIdx];
     }
 
-    // Print a list of jobs
+    /**
+     * Prints a list of jobs
+     * \param someJobs ArrayList of jobs
+     */
     private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
 
         if (someJobs.size() == 0) {
