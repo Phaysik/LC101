@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151485cf-9864-46d8-ad82-91862a685aee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/Doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/Doxyfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/all_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/all_7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/classes_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/classes_7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/functions_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/functions_4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doxygen/html/search/searchdata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/JobData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TechJobsConsole/JobData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/TechJobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +20,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="320">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,14 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="368">
+              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -74,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
+            <state relative-caret-position="13056">
               <caret line="816" selection-start-line="816" selection-end-line="816" />
             </state>
           </provider>
@@ -162,10 +140,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="18" />
-    <option name="width" value="1401" />
-    <option name="height" value="1002" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -175,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,19 +187,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studios" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-csv-1.4.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -239,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TechJobs">
+  <component name="RunManager" selected="Application.HelloUser">
     <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demos.ArrayListPractice" />
       <module name="java-exercises" />
@@ -279,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.PrintArray" />
-      <module name="java-exercises" />
+    <configuration name="HelloUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.HelloUser" />
+      <module name="java-exercises1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TechJobsConsole.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintArray" />
-      <item itemvalue="Application.HashBook" />
-      <item itemvalue="Application.CountingCharacters" />
-      <item itemvalue="Application.TechJobs" />
       <item itemvalue="Application.ArrayListPractice" />
+      <item itemvalue="Application.CountingCharacters" />
+      <item itemvalue="Application.HashBook" />
+      <item itemvalue="Application.TechJobs" />
+      <item itemvalue="Application.HelloUser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloUser" />
         <item itemvalue="Application.TechJobs" />
         <item itemvalue="Application.ArrayListPractice" />
         <item itemvalue="Application.CountingCharacters" />
         <item itemvalue="Application.HashBook" />
-        <item itemvalue="Application.PrintArray" />
       </list>
     </recent_temporary>
   </component>
@@ -336,10 +320,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2793177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,7 +331,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280142" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,13 +366,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -442,21 +418,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Projects/ConsoleTechJobs.java" />
-    <entry file="file://$PROJECT_DIR$/resources/job_data.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="98" column="95" selection-start-line="98" selection-start-column="95" selection-end-line="98" selection-end-column="95" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1504">
-          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/job_data.csv" />
     <entry file="file://$PROJECT_DIR$/src/studios/Area.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -477,20 +439,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demos/ArrayListPractice.java">
+    <entry file="file://$PROJECT_DIR$/src/demos/ArrayListPractice.java" />
+    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/JobData.java" />
+    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java" />
+    <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-387">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="320">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -499,38 +454,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="13056">
           <caret line="816" selection-start-line="816" selection-end-line="816" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/JobData.java">
+    <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="368">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
+    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -584,7 +523,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java-exercises</last-edited>
+          <last-edited>java-exercises1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
