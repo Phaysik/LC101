@@ -21,20 +21,43 @@ public class HelloController {
 
     @RequestMapping(value = "hello", method = RequestMethod.GET)
     @ResponseBody
-    public String helloForm() {
-        String html = "<form method='post'>" +
+    public String hello(HttpServletRequest request) {
+        String html = "<form method='post' action='createMessage'>" +
                 "<input type='text' name='name' />" +
+                "<select name='country'>" +
+                "<option value='English'>English</option>" +
+                "<option value='German'>German</option>" +
+                "<option value='French'>French</option>" +
+                "<option value='Russian'>Russian</option>" +
+                "<option value='Spanish'>Spanish</option>" +
+                "</select>" +
                 "<input type='submit' value='Greet Me!' />" +
                 "</form>";
         return html;
     }
 
-    @RequestMapping(value = "hello", method = RequestMethod.POST)
+    @RequestMapping(value = "createMessage", method = RequestMethod.POST)
     @ResponseBody
-    public String helloPost(HttpServletRequest request) {
-        String name = request.getParameter("name");
+    public static String createMessage(String name, String country) {
 
-        return name != "" ? String.format("Hello %s.", name) : "Invalid name.";
+        switch (country) {
+            case "English":
+                return String.format("Hello <u>%s</u>.", name);
+            case "German":
+                return String.format("Hallo <u>%s</u>.", name);
+            case "French":
+                return String.format("Bonjour <u>%s</u>.", name);
+            case "Russian":
+                return String.format("Привет <u>%s</u>.", name);
+            case "Spanish":
+                return String.format("Hola <u>%s</u>.", name);
+            default:
+                return String.format("Hi <u>%s</u>.", name);
+        }
+    }
+
+    public static void counter() {
+        int counter = 0;
     }
 
     @RequestMapping(value = "hello/{name}")
