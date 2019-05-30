@@ -8,8 +8,8 @@
     <nav th:replace="fragments :: nav"></nav>
 
     <ul>
-        <li th:each="cheese : ${cheeses.entrySet()}">
-            <p>Name: <span th:text="${cheese.getKey()}"></span> -> Description: <span th:text="${cheese.getValue()}"></span></p>
+        <li th:each="cheese : ${cheeses}">
+            <p>Name: <span th:text="${cheese.getName()}"></span> -> Description: <span th:text="${cheese.getDescription()}"></span></p>
         </li>
     </ul>
 
