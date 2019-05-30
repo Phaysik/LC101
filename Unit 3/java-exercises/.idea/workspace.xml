@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="151485cf-9864-46d8-ad82-91862a685aee" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="151485cf-9864-46d8-ad82-91862a685aee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-exercises.iml" afterDir="false" />
+    </list>
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -17,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
+        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="176">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,14 +36,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
+        <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="352">
               <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+=======
+            <state relative-caret-position="320">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,9 +98,16 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java">
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13056">
-              <caret line="816" selection-start-line="816" selection-end-line="816" />
+            <state relative-caret-position="320">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,10 +196,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -197,34 +220,13 @@
             <path>
               <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Doxygen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="school" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -233,6 +235,9 @@
               <item name="java-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="studios" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="TechJobsConsole" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
             </path>
           </expand>
           <select />
@@ -244,9 +249,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello-spring" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
@@ -333,8 +338,8 @@
       <item itemvalue="Application.ArrayListPractice" />
       <item itemvalue="Application.CountingCharacters" />
       <item itemvalue="Application.HashBook" />
-      <item itemvalue="Application.TechJobs" />
       <item itemvalue="Application.HelloUser" />
+      <item itemvalue="Application.TechJobs" />
     </list>
     <recent_temporary>
       <list>
@@ -360,10 +365,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.282516" />
+=======
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28398058" />
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,7 +483,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos/ArrayListPractice.java" />
     <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/JobData.java" />
-    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java" />
+    <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13056">
+          <caret line="816" selection-start-line="816" selection-end-line="816" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="13056">
+          <caret line="816" selection-start-line="816" selection-end-line="816" />
+=======
+        <state relative-caret-position="176">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 539be5f45c4dd08e546c8471418b3cc80138a149
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/SumList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -483,24 +529,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studios/CountingCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/TechJobsConsole/TechJobs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doxygen/Doxyfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13056">
-          <caret line="816" selection-start-line="816" selection-end-line="816" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/HelloUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="320">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -582,7 +617,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java-exercises1</last-edited>
+          <last-edited>java-exercises</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
