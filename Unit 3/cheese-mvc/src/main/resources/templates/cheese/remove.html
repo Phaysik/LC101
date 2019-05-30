@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head"></head>
+<body>
+
+    <nav th:replace="fragments :: nav"></nav>
+
+    <p th:unless="${cheeses} and ${cheeses.size()}">no cheese :(</p>
+
+    <form method="post">
+        <select name="cheeseName">
+            <option th:each="cheese : ${cheeses.entrySet()}" th:text="${cheese.getKey()}"></option>
+        </select>
+        <input type="submit" value="Remove Cheese" />
+    </form>
+</body>
+</html>

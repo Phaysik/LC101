@@ -135,7 +135,7 @@ public class TechJobs {
             System.out.println("There were no jobs that match your query.");
         } else {
             for (HashMap<String, String> job : someJobs) {
-                System.out.println("****");
+                System.out.println("\n****");
                 for (String key : job.keySet()) {
                     System.out.println(String.format("%s: %s", key, job.get(key)));
                 }

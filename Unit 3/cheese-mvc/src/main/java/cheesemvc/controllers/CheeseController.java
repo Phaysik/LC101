@@ -14,7 +14,6 @@ import java.util.HashMap;
 public class CheeseController {
 
     static HashMap<String, String> cheeses = new HashMap<>();
-    // static ArrayList<String> cheeses = new ArrayList<>();
 
     @RequestMapping("")
     public String index(Model model) {
@@ -38,6 +37,23 @@ public class CheeseController {
         cheeses.put(cheeseName, cheeseDesc);
 
         // Redirect to /cheese
+        return "redirect:";
+    }
+
+    @RequestMapping(value = "remove", method = RequestMethod.GET)
+    public String removePage(Model model) {
+        String title = "Remove Cheese";
+
+        model.addAttribute("title", title);
+        model.addAttribute("cheeses", cheeses);
+
+        return "cheese/remove";
+    }
+
+    @RequestMapping(value = "remove", method = RequestMethod.POST)
+    public String deleteCheese(@RequestParam String cheeseName) {
+        cheeses.remove(cheeseName);
+
         return "redirect:";
     }
 }

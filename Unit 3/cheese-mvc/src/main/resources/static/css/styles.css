@@ -11,6 +11,14 @@ p {
     animation-iteration-count: infinite
 }
 
+input {
+    margin-top: 1.2em;
+}
+
+.input {
+    margin-left: 1.2em;
+}
+
 @keyframes font {
   0%   {font-size: 1em; padding-top: 0em; transform:rotate(0deg);}
   25%  {font-size: 2em; padding-top: 1em; transform:rotate(90deg);}
