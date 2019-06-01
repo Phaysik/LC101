@@ -40,4 +40,21 @@ public class Course {
     public void setSemesterLength(int semesterLength) {
         this.semesterLength = semesterLength;
     }
+
+    @Override
+    public String toString() {
+        return this.courseName + " (Credits per Semester: " + this.creditsPerSemester+ ", semester length: " + this.semesterLength+ ")";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == this) {
+            return true;
+        } else if (o == null || o.getClass() != getClass()) {
+            return false;
+        }
+
+        Course theCourse = (Course) o;
+        return theCourse.getStudentsEnrolled() == getStudentsEnrolled() && theCourse.getCourseName() == getCourseName();
+    }
 }
