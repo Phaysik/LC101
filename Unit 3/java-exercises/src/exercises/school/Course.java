@@ -9,6 +9,24 @@ public class Course {
     private int creditsPerSemester;
     private int semesterLength;
 
+    public boolean addStudent(Student s) {
+        if (!this.studentsEnrolled.contains(s)) {
+            this.studentsEnrolled.add(s);
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public boolean dropStudent(Student s) {
+        if (this.studentsEnrolled.contains(s)) {
+            this.studentsEnrolled.remove(s);
+            return true;
+        } else {
+            return false;
+        }
+    }
+
     public String getCourseName() {
         return courseName;
     }
