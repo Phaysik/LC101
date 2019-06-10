@@ -5,6 +5,10 @@
     overflow: hidden;
 }
 
+p.error {
+    color: red;
+}
+
 // p {
     animation-name: font;
     animation-duration: 4s;
