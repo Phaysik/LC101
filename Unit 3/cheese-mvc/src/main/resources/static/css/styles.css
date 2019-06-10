@@ -1,25 +1,25 @@
-body {
+// body {
     font-family: sans-serif;
     background: black;
     color: white;
     overflow: hidden;
 }
 
-p {
+// p {
     animation-name: font;
     animation-duration: 4s;
     animation-iteration-count: infinite
 }
 
-input {
+// input {
     margin-top: 1.2em;
 }
 
-.input {
+// .input {
     margin-left: 1.2em;
 }
 
-@keyframes font {
+// @keyframes font {
   0%   {font-size: 1em; padding-top: 0em; transform:rotate(0deg);}
   25%  {font-size: 2em; padding-top: 1em; transform:rotate(90deg);}
   50%  {font-size: 1em; padding-top: 0em; transform:rotate(180deg);}
