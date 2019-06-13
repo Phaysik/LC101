@@ -5,7 +5,7 @@
     overflow: hidden;
 }
 
-p.error {
+.error {
     color: red;
 }
 

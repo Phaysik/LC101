@@ -7,14 +7,26 @@
 
     <nav th:replace="fragments :: nav"></nav>
 
-    <form method="POST" style="max-width: 600px;" action="/cheese/edit">
+    <form method="POST" style="max-width: 600px;" action="/cheese/edit" th:object="${cheese}">
         <div class="form-group">
-            <label for="cheeseName">Name:</label> <input class="form-control" type="text" name="name" th:value="${cheese.name}" id="cheeseName" />
+            <label th:for="name">Name:</label> <input class="form-control" th:field="*{name}" />
+            <span th:errors="*{name}" class="error"></span>
         </div>
         <div class="form-group">
-            <label for="cheeseDesc">Description:</label> <input class="form-control" type="text" name="description" th:value="${cheese.description}" id="cheeseDesc" />
+            <label th:for="description">Description:</label> <input class="form-control"th:field="*{description}" />
+            <span th:errors="*{description}" class="error"></span>
         </div>
-        <input type="hidden" th:value="${cheese.cheeseId}" name="cheeseId" />
+        <div class="form-group">
+            <label th:for="rating">Rating:</label> <input class="form-control" th:field="*{rating}" />
+            <span th:errors="*{rating}" class="error"></span>
+        </div>
+        <div class="form-group">
+            <label th:for="type">Type: </label>
+            <select th:field="*{type}">
+                <option th:each="cheeseType : ${cheeseTypes}" th:text="${cheeseType.name}" th:value="${cheeseType}"></option>
+            </select>
+        </div>
+        <input type="hidden" th:field="*{cheeseId}" />
         <span class="input"><input type="submit" value="Modify Cheese" /></span>
     </form>
 
