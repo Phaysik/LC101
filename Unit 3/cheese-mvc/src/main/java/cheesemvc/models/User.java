@@ -1,21 +1,20 @@
 package cheesemvc.models;
 
 import javax.validation.constraints.Email;
-import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 public class User {
 
     @NotNull
-    @Size(min = 5, max = 15)
+    @Size(min = 5, max = 15, message = "Size must be within the range of 5-15.")
     private String username;
 
     @Email
     private String email;
 
     @NotNull
-    @Size(min = 6)
+    @Size(min = 6, message = "Size must be greater than or equal to 6.")
     private String password;
 
     @NotNull(message = "Passwords do not match.")
