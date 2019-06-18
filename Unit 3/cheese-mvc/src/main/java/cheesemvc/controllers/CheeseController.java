@@ -41,7 +41,6 @@ public class CheeseController {
          * newCheese.setName(Request.getParameter("name"));
          * newCheese.setDescription(Request.getParameter("description"));
          */
-
         if (errors.hasErrors()) {
             model.addAttribute("title", "Add Cheese");
             model.addAttribute("cheeseTypes", CheeseType.values());
