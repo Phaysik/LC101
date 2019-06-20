@@ -11,7 +11,7 @@
         <tr>
             <th>Name</th>
             <th>Description</th>
-            <th>Type</th>
+            <th>Category</th>
             <th>Rating</th>
             <th>Edit</th>
         </tr>
@@ -19,9 +19,9 @@
         <tr th:each="cheese : ${cheeses}">
             <td th:text="${cheese.name}"></td>
             <td th:text="${cheese.description}"></td>
-            <td th:text="${cheese.type.name}"></td>
+            <td th:text="${cheese.category.name}"></td>
             <td th:text="${cheese.rating}"></td>
-            <td><a th:href="@{'/cheese/edit/' + ${cheese.cheeseId}}">Edit Cheese</a></td>
+            <td><a th:href="@{'/cheese/edit/' + ${cheese.id}}">Edit Cheese</a></td>
         </tr>
     </table>
 
