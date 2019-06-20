@@ -57,7 +57,7 @@ public class JobController {
 
         model.addAttribute(newJob);
 
-        return "job-detail";
+        return "redirect:/job?id=" + newJob.getId();
 
     }
 }
